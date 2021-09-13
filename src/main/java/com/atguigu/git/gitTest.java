@@ -14,5 +14,7 @@ public class gitTest {
         System.out.println("hot-fix 冲突1");
 
         System.out.println("push commit");
+        
+        System.out.println("pull commit");
     }
 }
